@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALB619
 - 👀 I’m interested in software engineering, hardware engineering, and sustainability innovation
-- 🌱 I’m currently learning about computer vision, AC circuits, and computer networks
+- 🌱 I’m currently learning about computer architecture, continuos time linear signals, and web development with react.js
 - 💞️ I’m looking to collaborate on TBA
 - 📫 How to reach me TBA
 
